@@ -5,7 +5,7 @@ The dashboard uses data validation, data cleaning, and Excel map charts to provi
 
 🔥 Dashboard Preview
 
-(![Dashboard Screenshot](Screenshot 2025-11-14 141306.png)
+(![Dashboard Screenshot](https://github.com/Benstein0312/Data-Science-Salary-Overview-Dashboard-EXCEL-/blob/acc0b92d30d0b53212fba5e38a317cc2a2d1476b/Screenshot%202025-11-14%20141306.png)
 
 
 🚀 Features
