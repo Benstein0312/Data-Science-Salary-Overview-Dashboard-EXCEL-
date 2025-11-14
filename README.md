@@ -5,7 +5,7 @@ The dashboard uses data validation, data cleaning, and Excel map charts to provi
 
 🔥 Dashboard Preview
 
-(![Dashboard Screenshot](https://github.com/your-username/your-repo-name/path-to-image.png)
+(![Dashboard Screenshot](Screenshot 2025-11-14 141306.png)
 
 
 🚀 Features
